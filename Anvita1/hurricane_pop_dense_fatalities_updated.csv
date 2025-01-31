@@ -1,0 +1,154 @@
+Year,Hurricane_Name,Landfall_City,Lat,Lon,Landfall_Pop_Dens_sq_mile,Pathway_Towns ,Pathway_Town_Population_Densities,Fatalities,Max_Wind_Speed_mph,Pressure_mb,Storm_Surge_ft,Precipitation_Total_in,Category
+2024,Milton,"Tampa, FL",27.95,-82.46,1500,"St. Petersburg, FL",4200,75,140,950,10,36,Category 4
+2024,Helene,"Panama City, FL",30.16,-85.66,1100,"Tallahassee, FL",1900,60,130,960,8,30,Category 4
+2023,Idalia,"Big Bend, FL",29.85,-83.59,1200,"Tallahassee, FL",1900,27,130,950,12,32,Category 4
+2022,Ian,"Fort Myers, FL",26.64,-81.87,1400,"Orlando, FL",1200,148,155,937,18,45,Category 4
+2022,Nicole,"Vero Beach, FL",27.64,-80.39,1100,"Orlando, FL",1200,10,75,985,6,30,Category 1
+2021,Ida,"Port Fourchon, LA",29.12,-90.2,1000,"New Orleans, LA",1200,107,150,929,16,38,Category 4
+2021,Nicholas,"Sargent Beach, TX",28.77,-95.61,900,"Houston, TX",1200,1,75,988,6,25,Category 1
+2020,Laura,"Cameron, LA",29.79,-93.32,850,"Lake Charles, LA",800,77,150,937,15,30,Category 4
+2020,Delta,"Creole, LA",29.76,-93.13,800,"Lafayette, LA",750,6,100,970,8,28,Category 2
+2020,Zeta,"Cocodrie, LA",29.25,-90.66,900,"New Orleans, LA",1200,6,110,970,9,26,Category 2
+2019,Barry,"Morgan City, LA",29.7,-91.21,750,"Baton Rouge, LA",950,3,75,993,5,24,Category 1
+2018,Michael,"Mexico Beach, FL",29.94,-85.4,1100,"Panama City, FL",1000,74,160,919,14,34,Category 5
+2018,Florence,"Wilmington, NC",34.23,-77.94,950,"New Bern, NC",900,54,140,956,10,28,Category 4
+2017,Harvey,"Rockport, TX",28.03,-97.05,950,"Houston, TX",1200,107,130,938,9,60,Category 4
+2017,Irma,"Naples, FL",26.14,-81.79,1300,"Fort Myers, FL",1200,92,185,914,18,46,Category 5
+2016,Matthew,"McClellanville, SC",33.08,-79.47,900,"Charleston, SC",1100,603,120,947,6,42,Category 3
+2015,Joaquin,"Southport, NC",33.92,-78.02,850,"Wilmington, NC",950,34,155,931,5,30,Category 4
+2014,Arthur,"Cape Lookout, NC",34.62,-76.53,950,"Wilmington, NC",1000,1,100,973,4,22,Category 2
+2013,Ingrid,"Port Isabel, TX",26.07,-97.22,850,"Brownsville, TX",900,23,65,989,6,18,Tropical Storm
+2012,Isaac,"New Orleans, LA",29.95,-90.07,950,"Baton Rouge, LA",900,41,80,965,7,25,Category 1
+2012,Sandy,"Atlantic City, NJ",39.36,-74.42,1800,"New York, NY",2700,233,85,940,13,32,Category 1
+2011,Irene,"Cape Lookout, NC",34.62,-76.53,1200,"Norfolk, VA",950,49,85,952,8,36,Category 1
+2010,Alex,"Tampico, Mexico",22.22,-97.86,800,"Matamoros, Mexico",700,33,110,947,8,18,Category 2
+2009,Ida,"Dauphin Island, AL",30.25,-88.11,850,"Mobile, AL",900,8,70,987,6,22,Tropical Storm
+2008,Gustav,"Cocodrie, LA",29.25,-90.66,850,"New Orleans, LA",1200,153,105,960,12,32,Category 2
+2008,Ike,"Galveston, TX",29.3,-94.79,1000,"Houston, TX",1200,195,110,935,15,45,Category 2
+2007,Humberto,"High Island, TX",29.57,-94.4,850,"Beaumont, TX",900,1,85,985,6,18,Category 1
+2006,Ernesto,"Islamorada, FL",24.92,-80.63,900,"Miami, FL",1200,9,70,994,4,15,Tropical Storm
+2006,Alberto,"Adams Beach, FL",29.92,-83.59,800,"Tallahassee, FL",1100,5,65,997,3,18,Tropical Storm
+2005,Dennis,"Navarre Beach, FL",30.38,-86.86,700,"Pensacola, FL",800,42,150,946,7,18,Category 4
+2005,Katrina,"New Orleans, LA",29.95,-90.07,1200,"Gulfport, MS",1000,1833,175,902,28,42,Category 5
+2005,Rita,"Beaumont, TX",30.08,-94.13,1000,"Lake Charles, LA",900,120,120,937,15,32,Category 3
+2005,Wilma,"Naples, FL",26.14,-81.79,1300,"Fort Lauderdale, FL",1200,87,150,882,12,35,Category 4
+2004,Charley,"Punta Gorda, FL",26.92,-82.05,1000,"Orlando, FL",1200,15,150,947,6,25,Category 4
+2004,Frances,"Stuart, FL",27.2,-80.25,950,"Orlando, FL",1000,7,105,960,4,22,Category 2
+2004,Ivan,"Gulf Shores, AL",30.25,-87.7,850,"Pensacola, FL",800,92,140,946,10,30,Category 4
+2004,Jeanne,"Port St. Lucie, FL",27.27,-80.35,900,"Orlando, FL",950,3,120,950,6,20,Category 3
+2003,Claudette,"Port O'Connor, TX",28.45,-96.4,750,"Victoria, TX",700,2,90,980,4,15,Category 1
+2003,Isabel,"Drum Inlet, NC",34.83,-76.29,850,"Norfolk, VA",950,51,105,957,7,28,Category 2
+2002,Isidore,"Grand Isle, LA",29.26,-89.96,950,"New Orleans, LA",1200,7,70,964,5,18,Tropical Storm
+2002,Lili,"Intracoastal City, LA",29.78,-92.2,850,"Lake Charles, LA",800,15,90,953,6,22,Category 1
+2000,Alberto,"Dauphin Island, AL",30.25,-88.11,850,"Mobile, AL",900,12,110,980,7,24,Category 2
+1999,Bret,"Padre Island, TX",27.12,-97.23,750,"Corpus Christi, TX",800,7,125,944,8,20,Category 3
+1999,Floyd,"Cape Fear, NC",33.85,-77.95,950,"Wilmington, NC",1000,57,155,921,10,25,Category 4
+1998,Bonnie,"Cape Fear, NC",33.85,-77.95,950,"Wilmington, NC",1000,3,115,954,5,20,Category 3
+1998,Georges,"Biloxi, MS",30.39,-88.89,1000,"Mobile, AL",900,16,105,964,8,28,Category 2
+1997,Danny,"Moss Point, MS",30.42,-88.53,900,"Mobile, AL",850,9,70,984,6,20,Tropical Storm
+1996,Bertha,"Wilmington, NC",34.23,-77.94,950,"Raleigh, NC",1200,12,105,977,6,20,Category 2
+1996,Fran,"Cape Fear, NC",33.85,-77.95,950,"Wilmington, NC",1000,37,120,960,8,28,Category 3
+1995,Erin,"Vero Beach, FL",27.64,-80.39,900,"Orlando, FL",1000,6,85,984,4,18,Category 1
+1995,Opal,"Pensacola Beach, FL",30.35,-87.14,850,"Destin, FL",900,59,115,942,8,26,Category 3
+1992,Andrew,"Homestead, FL",25.47,-80.48,1500,"Miami, FL",1200,65,165,922,17,30,Category 5
+1992,Bonnie,"Cape Fear, NC",33.85,-77.95,950,"Wilmington, NC",1000,6,95,980,5,18,Category 1
+1989,Hugo,"Charleston, SC",32.78,-79.93,1100,"Myrtle Beach, SC",800,49,140,934,20,30,Category 4
+1989,Jerry,"Galveston, TX",29.3,-94.79,1000,"Houston, TX",1200,3,75,987,6,20,Category 1
+1988,Florence,"Moss Point, MS",30.42,-88.53,900,"Mobile, AL",850,4,65,987,4,16,Tropical Storm
+1988,Gilbert,"South Padre Island, TX",26.08,-97.16,800,"Brownsville, TX",900,318,125,888,8,28,Category 3
+1987,Emily,"Grand Isle, LA",29.26,-89.96,950,"New Orleans, LA",1200,3,110,988,6,18,Category 2
+1986,Bonnie,"High Island, TX",29.57,-94.4,850,"Beaumont, TX",900,5,75,995,4,16,Category 1
+1986,Andrew,"South Padre Island, TX",26.08,-97.16,800,"Brownsville, TX",900,8,75,990,6,22,Category 1
+1985,Elena,"Biloxi, MS",30.39,-88.89,1000,"Mobile, AL",900,4,110,953,10,26,Category 2
+1985,Gloria,"Long Island, NY",40.79,-73.26,1800,"New York, NY",2700,8,105,946,6,20,Category 2
+1984,Diana,"Wilmington, NC",34.23,-77.94,950,"Raleigh, NC",1200,3,115,954,6,22,Category 3
+1983,Alicia,"Galveston, TX",29.3,-94.79,1000,"Houston, TX",1200,21,115,962,12,20,Category 3
+1980,Allen,"South Padre Island, TX",26.08,-97.16,800,"Brownsville, TX",900,269,190,899,15,28,Category 5
+1980,Bonnie,"High Island, TX",29.57,-94.4,850,"Beaumont, TX",900,5,85,995,4,18,Category 1
+1977,Babe,"Houma, LA",29.59,-90.72,900,"New Orleans, LA",1200,5,65,990,4,18,Tropical Storm
+1977,Dorothy,"Galveston, TX",29.3,-94.79,1000,"Houston, TX",1200,3,75,987,6,20,Category 1
+1976,Belle,"Long Island, NY",40.79,-73.26,1800,"New York, NY",2700,12,105,970,6,24,Category 2
+1975,Eloise,"Panama City, FL",30.16,-85.66,950,"Tallahassee, FL",1000,76,120,955,14,32,Category 3
+1974,Carmen,"Morgan City, LA",29.7,-91.21,900,"New Orleans, LA",1200,8,130,928,10,30,Category 4
+1972,Agnes,"Panama City, FL",30.16,-85.66,950,"Tallahassee, FL",1000,122,75,978,4,36,Category 1
+1971,Edith,"Cameron, LA",29.79,-93.32,850,"Lake Charles, LA",800,37,115,960,10,28,Category 3
+1971,Ginger,"Cape Lookout, NC",34.62,-76.53,900,"Wilmington, NC",950,1,85,970,4,16,Category 1
+1970,Celia,"Corpus Christi, TX",27.8,-97.39,800,"Brownsville, TX",900,28,125,944,10,20,Category 3
+1969,Camille,"Pass Christian, MS",30.31,-89.25,950,"Biloxi, MS",1000,259,190,900,24,36,Category 5
+1969,Blanche,"Matamoros, Mexico",25.87,-97.5,800,"Brownsville, TX",900,2,75,995,6,16,Category 1
+1968,Brenda,"Galveston, TX",29.3,-94.79,1000,"Houston, TX",1200,3,70,987,6,16,Tropical Storm
+1968,Gladys,"Cedar Key, FL",29.14,-83.03,800,"Tallahassee, FL",1000,5,85,965,4,20,Category 1
+1967,Beulah,"Brownville, TX",25.9,-97.49,800,"Harlingen, TX",850,58,160,923,18,27,Category 5
+1967,Chloe,"Cameron, LA",29.79,-93.32,850,"Lake Charles, LA",800,2,90,923,18,27,Category 1
+1961,Carla,"Port Lavaca, TX ",28.61,-96.63,850," Galveston, TX ",6700,43,175,931,22,13,Category 5
+1964,Hilda,"Morgan City, LA ",29.7,-91.21,750," Houma, LA ",550,38,110,968,8,12,Category 2
+1965,Betsy,"New Orleans, LA ",29.95,-90.07,"1,050"," Baton Rouge, LA ",820,81,155,948,10,14,Category 4
+1957,Audrey,"Cameron, LA ",29.79,-93.32,750," Lake Charles, LA ",105,416,145,946,12,10,Category 4
+1960,Donna,"Naples, FL ",26.14,-81.79,1200," Miami, FL ","1,650",364,160,930,13,15,Category 5
+1959,Gracie,"Charleston, SC ",32.78,-79.93,950," Savannah, GA ","1,300",22,130,957,10,8,Category 4
+1954,Hazel,"Wilmington, NC ",34.23,-77.94,1100," Cape May, NJ ","2,300",95,150,938,18,12,Category 4
+1955,Ione,"New Bern, NC ",35.11,-77.03,900," Greenville, NC ","1,800",7,125,960,9,7,Category 3
+1958,Helene,"Outer Banks, NC ",35.36,-75.51,850," Norfolk, VA ",900,1,135,952,8,6,Category 4
+1955,Connie,"Elizabeth City, NC ",36.3,-76.22,950," Norfolk, VA ",900,14,120,960,9,8,Category 3
+1954,Edna,"Cape Cod, MA ",41.67,-70.29,800," Martha’s Vineyard, MA ","5,500",20,115,970,10,9,Category 3
+1954,Carol,"Narragansett, RI ",41.43,-71.45,900," Cape Cod, MA ","1,600",60,125,960,12,10,Category 3
+1950,King,"Miami, FL ",25.76,-80.19,1200," Fort Lauderdale, FL ","1,800",50,140,945,15,12,Category 4
+1950,Easy,"Tampa, FL ",27.95,-82.46,1000," Cedar Key, FL ",400,30,125,952,12,10,Category 3
+1949,Key West,"Key West, FL ",24.55,-81.78,900," Marathon, FL ",250,12,115,960,9,8,Category 3
+1948,Boca Chica,"Boca Chica, FL ",24.58,-81.71,850," Key Largo, FL ",200,20,110,965,8,7,Category 2
+1947,Fort Lauderdale,"Fort Lauderdale, FL ",26.12,-80.14,1800," Miami, FL ","1,200",22,130,948,10,9,Category 4
+1945,New Orleans,"New Orleans, LA ",29.95,-90.07,1100," Baton Rouge, LA ",900,45,150,938,14,13,Category 4
+1944,Jacksonville,"Jacksonville, FL ",30.33,-81.65,800," St. Augustine, FL ",450,18,120,957,10,10,Category 3
+1942,Galveston,"Galveston, TX ",29.3,-94.79,850," Houston, TX ",600,52,115,962,12,9,Category 3
+1941,Houston,"Houston, TX ",29.76,-95.36,900," Port Arthur, TX ",500,40,125,960,11,10,Category 3
+1938,New England,"Providence, RI ",41.82,-71.41,1200," Boston, MA ","1,550",682,120,941,17,12,Category 3
+1936,Pensacola,"Pensacola, FL ",30.42,-87.22,850," Mobile, AL ",550,12,105,950,10,9,Category 2
+1935,Florida Keys,"Marathon, FL ",24.71,-81.09,900," Key West, FL ",100,408,185,892,18,10,Category 5
+1934,Galveston,"Galveston, TX ",29.3,-94.79,950," Houston, TX ",950,40,130,940,12,8,Category 4
+1933,Outer Banks,"Cape Hatteras, NC ",35.26,-75.53,800," Virginia Beach, VA ",700,21,115,960,9,7,Category 3
+1933,Tampa Bay,"Tampa, FL ",27.95,-82.46,1000," St. Petersburg, FL ",600,18,120,957,10,9,Category 3
+1933,Brownsville,"Brownsville, TX ",25.9,-97.49,900," Harlingen, TX ",800,15,125,952,11,8,Category 3
+1932,Houston,"Houston, TX ",29.76,-95.36,950," Port Arthur, TX ",500,50,115,955,12,10,Category 3
+1929,Apalachicola,"Apalachicola, FL ",29.73,-84.98,750," Tallahassee, FL ",600,15,105,965,8,9,Category 2
+1928,Lake Okeechobee,"West Palm Beach, FL ",26.71,-80.05,1200," Lake Okeechobee, FL ",200,2500,140,929,14,13,Category 4
+1926,Great Miami,"Miami, FL ",25.76,-80.19,1000," Fort Lauderdale, FL ",200,372,150,930,15,14,Category 4
+1926,Cedar Key,"Cedar Key, FL ",29.14,-83.03,900," Tampa, FL ",900,74,120,947,12,10,Category 3
+1926,Galveston,"Galveston, TX ",29.3,-94.79,950," Houston, TX ",650,38,125,955,10,9,Category 3
+1921,Tampa Bay,"Tampa, FL ",27.95,-82.46,850," St. Petersburg, FL ",320,93,115,960,11,8,Category 3
+1919,Corpus Christi,"Corpus Christi, TX ",27.8,-97.39,850," Rockport, TX ",200,284,140,931,16,14,Category 4
+1919,Key West,"Key West, FL ",24.55,-81.78,750," Havana, Cuba ","1,300",772,125,945,12,13,Category 3
+1918,Morgan City,"Morgan City, LA ",29.7,-91.21,800," Houma, LA ",350,34,120,960,8,10,Category 3
+1917,New Orleans,"New Orleans, LA ",29.95,-90.07,950," Baton Rouge, LA ",700,18,115,970,7,8,Category 3
+1916,Tampico,"Tampico, Mexico ",22.22,-97.86,700," Brownsville, TX ",320,60,105,950,10,9,Category 2
+1915,Galveston,"Galveston, TX ",29.3,-94.79,900," Houston, TX ",325,275,135,939,18,15,Category 4
+1915,Louisiana,"Morgan City, LA ",29.7,-91.21,850," Lafayette, LA ",650,70,125,948,11,10,Category 3
+1906,Florida,"Grand Isle, LA ",29.26,-89.96,750," Houma, LA ",320,353,120,958,12,9,Category 3
+1909,Brazoria,"Brazoria, TX ",29.04,-95.57,700," Galveston, TX ",400,26,115,962,10,7,Category 3
+1909,Florida Keys,"Key West, FL ",24.55,-81.78,850," Marathon, FL ",650,10,105,970,8,6,Category 2
+1900,Galveston,"Galveston, TX ",29.3,-94.79,950," Houston, TX ",900,6000,145,936,15,10,Category 4
+1899,Key West,"Key West, FL ",24.55,-81.78,850," Marathon, FL ",600,334,120,945,12,12,Category 3
+1898,Georgia,"Savannah, GA ",32.08,-81.1,800," Brunswick, GA ",650,179,115,950,9,9,Category 3
+1896,Cedar Key,"Cedar Key, FL ",29.14,-83.03,750," Tampa, FL ",900,70,130,942,14,13,Category 4
+1894,South Carolina,"Charleston, SC ",32.78,-79.93,700," Myrtle Beach, SC ",300,34,110,960,10,8,Category 2
+1893,Cheniere Caminada,"Cheniere Caminada, LA ",29.45,-90.26,650," Houma, LA ",450,2000,140,934,20,15,Category 4
+1893,Sea Islands,"Sea Islands, GA ",31.21,-81.39,600," Savannah, GA ",800,2000,130,939,18,14,Category 4
+1893,Louisiana,"Morgan City, LA ",29.7,-91.21,700," New Orleans, LA ",900,1100,125,941,14,13,Category 3
+1888,Key West,"Key West, FL ",24.55,-81.78,700," Marathon, FL ",210,130,115,960,10,9,Category 3
+1886,Indianola,"Indianola, TX ",28.53,-96.52,650," Victoria, TX ",750,150,140,933,20,15,Category 4
+1886,Sabine Pass,"Sabine Pass, TX ",29.73,-93.87,600," Port Arthur, TX ",900,195,130,940,18,14,Category 4
+1885,Charleston,"Charleston, SC ",32.78,-79.93,550," Myrtle Beach, SC ",600,35,110,950,12,10,Category 2
+1882,Mississippi,"Biloxi, MS ",30.39,-88.89,500," Gulfport, MS ",650,50,100,970,8,7,Category 2
+1880,Southeast Florida,"Miami, FL ",25.76,-80.19,600," West Palm Beach, FL ",650,17,110,955,10,8,Category 2
+1879,Cape Lookout,"Cape Lookout, NC ",34.62,-76.53,550," Wilmington, NC ",600,46,115,950,9,10,Category 3
+1879,Louisiana,"New Orleans, LA ",29.95,-90.07,700," Baton Rouge, LA ",700,43,120,945,12,9,Category 3
+1877,Indianola,"Indianola, TX ",28.53,-96.52,650," Victoria, TX ",650,84,130,940,15,13,Category 4
+1875,Galveston,"Galveston, TX ",29.3,-94.79,800," Houston, TX ",925,26,125,947,14,12,Category 3
+1873,Nova Scotia,"Halifax, NS ",44.65,-63.57,500," Yarmouth, NS ",650,223,100,970,8,7,Category 2
+1871,Tampa Bay,"Tampa, FL ",27.95,-82.46,750," St. Petersburg, FL ",850,35,115,960,11,9,Category 3
+1869,New England,"Providence, RI ",41.82,-71.41,500," Boston, MA ","1,200",40,110,960,9,8,Category 2
+1860,Texas,"Lake Charles, LA ",30.22,-93.22,600," Port Arthur, TX ",600,36,125,945,14,12,Category 3
+1860,Alabama,"Biloxi, MS ",30.39,-88.89,550," Mobile, AL ",800,55,115,950,12,10,Category 3
+1855,Mobile,"Mobile, AL ",30.69,-88.04,700," Gulf Shores, AL ",700,45,120,947,15,13,Category 3
+1854,Savannah,"Savannah, GA ",32.08,-81.1,650," Charleston, SC ",600,34,110,960,10,9,Category 2
+1852,Pensacola,"Pensacola, FL ",30.42,-87.22,500," Destin, FL ",105,19,100,970,8,7,Category 2
+1851,Tampa Bay,"Tampa, FL ",27.95,-82.46,750," St. Petersburg, FL ",300,30,105,955,9,8,Category 2
