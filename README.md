@@ -19,7 +19,10 @@ Conclusions:
 
 Declaration of the use of ChatGPT or other AI tools
 
-**Project Overview (DANIEL ALLEN) 
+**Project Overview 
+(DANIEL ALLEN) 
+
+
 As a member of TEAM 3, my primary objective was to ensure meteorological factors (e.g., wind speed, pressure, storm surge) were properly weighted against exposure-driven variables (e.g., population density, preparedness score). To create an optimized prediction model, the project involved extensive model testing, feature engineering, and bias mitigation strategies.   Unfortunately, because of the failures of the model development, the model I developed failed miserably when I measured its validity to another dataset of three cyclones/typhoons.   
 **PROCESS 
 1. Data Preprocessing & Feature Engineering o The dataset was cleaned and adjusted so all the numbers were on a similar scale. Using Standard Scale Gradient Boosting (GBM): Outperformed others regarding predictive accuracy and generalization.  
