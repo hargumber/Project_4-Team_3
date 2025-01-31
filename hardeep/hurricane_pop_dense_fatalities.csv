@@ -1,0 +1,155 @@
+Hurricane (YEAR),Landfall City,Lat,Lon,Landfall Population Density (people/sq mile),Pathway Towns ,Pathway Town Population Densities (1),Fatalities,Max Wind Speed (mph),Pressure (mb),Storm Surge (ft),Precipitation Total (in)
+Milton (2024),"Tampa, FL",27.95,-82.46,1500,"St. Petersburg, FL",4200,75,140,950,10,36
+Helene (2024),"Panama City, FL",30.16,-85.66,1100,"Tallahassee, FL",1900,60,130,960,8,30
+Idalia (2023),"Big Bend, FL",29.85,-83.59,1200,"Tallahassee, FL",1900,27,130,950,12,32
+Ian (2022),"Fort Myers, FL",26.64,-81.87,1400,"Orlando, FL",1200,148,155,937,18,45
+Nicole (2022),"Vero Beach, FL",27.64,-80.39,1100,"Orlando, FL",1200,10,75,985,6,30
+Ida (2021),"Port Fourchon, LA",29.12,-90.2,1000,"New Orleans, LA",1200,107,150,929,16,38
+Nicholas (2021),"Sargent Beach, TX",28.77,-95.61,900,"Houston, TX",1200,1,75,988,6,25
+Laura (2020),"Cameron, LA",29.79,-93.32,850,"Lake Charles, LA",800,77,150,937,15,30
+Delta (2020),"Creole, LA",29.76,-93.13,800,"Lafayette, LA",750,6,100,970,8,28
+Zeta (2020),"Cocodrie, LA",29.25,-90.66,900,"New Orleans, LA",1200,6,110,970,9,26
+Barry (2019),"Morgan City, LA",29.7,-91.21,750,"Baton Rouge, LA",950,3,75,993,5,24
+Michael (2018),"Mexico Beach, FL",29.94,-85.4,1100,"Panama City, FL",1000,74,160,919,14,34
+Florence (2018),"Wilmington, NC",34.23,-77.94,950,"New Bern, NC",900,54,140,956,10,28
+Harvey (2017),"Rockport, TX",28.03,-97.05,950,"Houston, TX",1200,107,130,938,9,60
+Irma (2017),"Naples, FL",26.14,-81.79,1300,"Fort Myers, FL",1200,92,185,914,18,46
+Matthew (2016),"McClellanville, SC",33.08,-79.47,900,"Charleston, SC",1100,603,120,947,6,42
+Joaquin (2015),"Southport, NC",33.92,-78.02,850,"Wilmington, NC",950,34,155,931,5,30
+Arthur (2014),"Cape Lookout, NC",34.62,-76.53,950,"Wilmington, NC",1000,1,100,973,4,22
+Ingrid (2013),"Port Isabel, TX",26.07,-97.22,850,"Brownsville, TX",900,23,65,989,6,18
+Isaac (2012),"New Orleans, LA",29.95,-90.07,950,"Baton Rouge, LA",900,41,80,965,7,25
+Sandy (2012),"Atlantic City, NJ",39.36,-74.42,1800,"New York, NY",2700,233,85,940,13,32
+Irene (2011),"Cape Lookout, NC",34.62,-76.53,1200,"Norfolk, VA",950,49,85,952,8,36
+Alex (2010),"Tampico, Mexico",22.22,-97.86,800,"Matamoros, Mexico",700,33,110,947,8,18
+Ida (2009),"Dauphin Island, AL",30.25,-88.11,850,"Mobile, AL",900,8,70,987,6,22
+Gustav (2008),"Cocodrie, LA",29.25,-90.66,850,"New Orleans, LA",1200,153,105,960,12,32
+Ike (2008),"Galveston, TX",29.3,-94.79,1000,"Houston, TX",1200,195,110,935,15,45
+Humberto (2007),"High Island, TX",29.57,-94.4,850,"Beaumont, TX",900,1,85,985,6,18
+Ernesto (2006),"Islamorada, FL",24.92,-80.63,900,"Miami, FL",1200,9,70,994,4,15
+Alberto (2006),"Adams Beach, FL",29.92,-83.59,800,"Tallahassee, FL",1100,5,65,997,3,18
+Dennis (2005),"Navarre Beach, FL",30.38,-86.86,700,"Pensacola, FL",800,42,150,946,7,18
+Katrina (2005),"New Orleans, LA",29.95,-90.07,1200,"Gulfport, MS",1000,1833,175,902,28,42
+Rita (2005),"Beaumont, TX",30.08,-94.13,1000,"Lake Charles, LA",900,120,120,937,15,32
+Wilma (2005),"Naples, FL",26.14,-81.79,1300,"Fort Lauderdale, FL",1200,87,150,882,12,35
+Charley (2004),"Punta Gorda, FL",26.92,-82.05,1000,"Orlando, FL",1200,15,150,947,6,25
+Frances (2004),"Stuart, FL",27.2,-80.25,950,"Orlando, FL",1000,7,105,960,4,22
+Ivan (2004),"Gulf Shores, AL",30.25,-87.7,850,"Pensacola, FL",800,92,140,946,10,30
+Jeanne (2004),"Port St. Lucie, FL",27.27,-80.35,900,"Orlando, FL",950,3,120,950,6,20
+Claudette (2003),"Port O'Connor, TX",28.45,-96.4,750,"Victoria, TX",700,2,90,980,4,15
+Isabel (2003),"Drum Inlet, NC",34.83,-76.29,850,"Norfolk, VA",950,51,105,957,7,28
+Isidore (2002),"Grand Isle, LA",29.26,-89.96,950,"New Orleans, LA",1200,7,70,964,5,18
+Lili (2002),"Intracoastal City, LA",29.78,-92.2,850,"Lake Charles, LA",800,15,90,953,6,22
+Alberto (2000),"Dauphin Island, AL",30.25,-88.11,850,"Mobile, AL",900,12,110,980,7,24
+Bret (1999),"Padre Island, TX",27.12,-97.23,750,"Corpus Christi, TX",800,7,125,944,8,20
+Floyd (1999),"Cape Fear, NC",33.85,-77.95,950,"Wilmington, NC",1000,57,155,921,10,25
+Bonnie (1998),"Cape Fear, NC",33.85,-77.95,950,"Wilmington, NC",1000,3,115,954,5,20
+Georges (1998),"Biloxi, MS",30.39,-88.89,1000,"Mobile, AL",900,16,105,964,8,28
+Danny (1997),"Moss Point, MS",30.42,-88.53,900,"Mobile, AL",850,9,70,984,6,20
+Bertha (1996),"Wilmington, NC",34.23,-77.94,950,"Raleigh, NC",1200,12,105,977,6,20
+Fran (1996),"Cape Fear, NC",33.85,-77.95,950,"Wilmington, NC",1000,37,120,960,8,28
+Erin (1995),"Vero Beach, FL",27.64,-80.39,900,"Orlando, FL",1000,6,85,984,4,18
+Opal (1995),"Pensacola Beach, FL",30.35,-87.14,850,"Destin, FL",900,59,115,942,8,26
+Andrew (1992),"Homestead, FL",25.47,-80.48,1500,"Miami, FL",1200,65,165,922,17,30
+Bonnie (1992),"Cape Fear, NC",33.85,-77.95,950,"Wilmington, NC",1000,6,95,980,5,18
+Hugo (1989),"Charleston, SC",32.78,-79.93,1100,"Myrtle Beach, SC",800,49,140,934,20,30
+Jerry (1989),"Galveston, TX",29.3,-94.79,1000,"Houston, TX",1200,3,75,987,6,20
+Florence (1988),"Moss Point, MS",30.42,-88.53,900,"Mobile, AL",850,4,65,987,4,16
+Gilbert (1988),"South Padre Island, TX",26.08,-97.16,800,"Brownsville, TX",900,318,125,888,8,28
+Emily (1987),"Grand Isle, LA",29.26,-89.96,950,"New Orleans, LA",1200,3,110,988,6,18
+Bonnie (1986),"High Island, TX",29.57,-94.4,850,"Beaumont, TX",900,5,75,995,4,16
+Andrew (1986),"South Padre Island, TX",26.08,-97.16,800,"Brownsville, TX",900,8,75,990,6,22
+Elena (1985),"Biloxi, MS",30.39,-88.89,1000,"Mobile, AL",900,4,110,953,10,26
+Gloria (1985),"Long Island, NY",40.79,-73.26,1800,"New York, NY",2700,8,105,946,6,20
+Diana (1984),"Wilmington, NC",34.23,-77.94,950,"Raleigh, NC",1200,3,115,954,6,22
+Alicia (1983),"Galveston, TX",29.3,-94.79,1000,"Houston, TX",1200,21,115,962,12,20
+Allen (1980),"South Padre Island, TX",26.08,-97.16,800,"Brownsville, TX",900,269,190,899,15,28
+Bonnie (1980),"High Island, TX",29.57,-94.4,850,"Beaumont, TX",900,5,85,995,4,18
+Babe (1977),"Houma, LA",29.59,-90.72,900,"New Orleans, LA",1200,5,65,990,4,18
+Dorothy (1977),"Galveston, TX",29.3,-94.79,1000,"Houston, TX",1200,3,75,987,6,20
+Belle (1976),"Long Island, NY",40.79,-73.26,1800,"New York, NY",2700,12,105,970,6,24
+Eloise (1975),"Panama City, FL",30.16,-85.66,950,"Tallahassee, FL",1000,76,120,955,14,32
+Carmen (1974),"Morgan City, LA",29.7,-91.21,900,"New Orleans, LA",1200,8,130,928,10,30
+Agnes (1972),"Panama City, FL",30.16,-85.66,950,"Tallahassee, FL",1000,122,75,978,4,36
+Edith (1971),"Cameron, LA",29.79,-93.32,850,"Lake Charles, LA",800,37,115,960,10,28
+Ginger (1971),"Cape Lookout, NC",34.62,-76.53,900,"Wilmington, NC",950,1,85,970,4,16
+Celia (1970),"Corpus Christi, TX",27.8,-97.39,800,"Brownsville, TX",900,28,125,944,10,20
+Camille (1969),"Pass Christian, MS",30.31,-89.25,950,"Biloxi, MS",1000,259,190,900,24,36
+Blanche (1969),"Matamoros, Mexico",25.87,-97.5,800,"Brownsville, TX",900,2,75,995,6,16
+Brenda (1968),"Galveston, TX",29.3,-94.79,1000,"Houston, TX",1200,3,70,987,6,16
+Gladys (1968),"Cedar Key, FL",29.14,-83.03,800,"Tallahassee, FL",1000,5,85,965,4,20
+Beulah (1967),"Brownville, TX",25.9,-97.49,800,"Harlingen, TX",850,58,160,923,18,27
+Chloe (1967),"Cameron, LA",29.79,-93.32,850,"Lake Charles, LA",800,2,90,923,18,27
+Carla (1961),"Port Lavaca, TX ",28.61,-96.63,850," Galveston, TX ",6700,43,175,931,22,13
+Hilda (1964),"Morgan City, LA ",29.7,-91.21,750," Houma, LA ",550,38,110,968,8,12
+Betsy (1965),"New Orleans, LA ",29.95,-90.07,"1,050"," Baton Rouge, LA ",820,81,155,948,10,14
+Audrey (1957),"Cameron, LA ",29.79,-93.32,750," Lake Charles, LA ",105,416,145,946,12,10
+Donna (1960),"Naples, FL ",26.14,-81.79,1200," Miami, FL ","1,650",364,160,930,13,15
+Gracie (1959),"Charleston, SC ",32.78,-79.93,950," Savannah, GA ","1,300",22,130,957,10,8
+Hazel (1954),"Wilmington, NC ",34.23,-77.94,1100," Cape May, NJ ","2,300",95,150,938,18,12
+Ione (1955),"New Bern, NC ",35.11,-77.03,900," Greenville, NC ","1,800",7,125,960,9,7
+Helene (1958),"Outer Banks, NC ",35.36,-75.51,850," Norfolk, VA ",900,1,135,952,8,6
+Connie (1955),"Elizabeth City, NC ",36.3,-76.22,950," Norfolk, VA ",900,14,120,960,9,8
+Edna (1954),"Cape Cod, MA ",41.67,-70.29,800," Martha’s Vineyard, MA ","5,500",20,115,970,10,9
+Carol (1954),"Narragansett, RI ",41.43,-71.45,900," Cape Cod, MA ","1,600",60,125,960,12,10
+King (1950),"Miami, FL ",25.76,-80.19,1200," Fort Lauderdale, FL ","1,800",50,140,945,15,12
+Easy (1950),"Tampa, FL ",27.95,-82.46,1000," Cedar Key, FL ",400,30,125,952,12,10
+Key West (1949),"Key West, FL ",24.55,-81.78,900," Marathon, FL ",250,12,115,960,9,8
+Boca Chica (1948),"Boca Chica, FL ",24.58,-81.71,850," Key Largo, FL ",200,20,110,965,8,7
+Fort Lauderdale (1947),"Fort Lauderdale, FL ",26.12,-80.14,1800," Miami, FL ","1,200",22,130,948,10,9
+New Orleans (1945),"New Orleans, LA ",29.95,-90.07,1100," Baton Rouge, LA ",900,45,150,938,14,13
+Jacksonville (1944),"Jacksonville, FL ",30.33,-81.65,800," St. Augustine, FL ",450,18,120,957,10,10
+Galveston (1942),"Galveston, TX ",29.3,-94.79,850," Houston, TX ",600,52,115,962,12,9
+Houston (1941),"Houston, TX ",29.76,-95.36,900," Port Arthur, TX ",500,40,125,960,11,10
+New England (1938),"Providence, RI ",41.82,-71.41,1200," Boston, MA ","1,550",682,120,941,17,12
+Pensacola (1936),"Pensacola, FL ",30.42,-87.22,850," Mobile, AL ",550,12,105,950,10,9
+Florida Keys (1935),"Marathon, FL ",24.71,-81.09,900," Key West, FL ",100,408,185,892,18,10
+Galveston (1934),"Galveston, TX ",29.3,-94.79,950," Houston, TX ",950,40,130,940,12,8
+Outer Banks (1933),"Cape Hatteras, NC ",35.26,-75.53,800," Virginia Beach, VA ",700,21,115,960,9,7
+Tampa Bay (1933),"Tampa, FL ",27.95,-82.46,1000," St. Petersburg, FL ",600,18,120,957,10,9
+Brownsville (1933),"Brownsville, TX ",25.9,-97.49,900," Harlingen, TX ",800,15,125,952,11,8
+Houston (1932),"Houston, TX ",29.76,-95.36,950," Port Arthur, TX ",500,50,115,955,12,10
+Apalachicola (1929),"Apalachicola, FL ",29.73,-84.98,750," Tallahassee, FL ",600,15,105,965,8,9
+Lake Okeechobee (1928),"West Palm Beach, FL ",26.71,-80.05,1200," Lake Okeechobee, FL ",200,2500,140,929,14,13
+Great Miami (1926),"Miami, FL ",25.76,-80.19,1000," Fort Lauderdale, FL ",200,372,150,930,15,14
+Cedar Key (1926),"Cedar Key, FL ",29.14,-83.03,900," Tampa, FL ",900,74,120,947,12,10
+Galveston (1926),"Galveston, TX ",29.3,-94.79,950," Houston, TX ",650,38,125,955,10,9
+Tampa Bay (1921),"Tampa, FL ",27.95,-82.46,850," St. Petersburg, FL ",320,93,115,960,11,8
+Corpus Christi (1919),"Corpus Christi, TX ",27.8,-97.39,850," Rockport, TX ",200,284,140,931,16,14
+Key West (1919),"Key West, FL ",24.55,-81.78,750," Havana, Cuba ","1,300",772,125,945,12,13
+Morgan City (1918),"Morgan City, LA ",29.7,-91.21,800," Houma, LA ",350,34,120,960,8,10
+New Orleans (1917),"New Orleans, LA ",29.95,-90.07,950," Baton Rouge, LA ",700,18,115,970,7,8
+Tampico (1916),"Tampico, Mexico ",22.22,-97.86,700," Brownsville, TX ",320,60,105,950,10,9
+Galveston (1915),"Galveston, TX ",29.3,-94.79,900," Houston, TX ",325,275,135,939,18,15
+Louisiana (1915),"Morgan City, LA ",29.7,-91.21,850," Lafayette, LA ",650,70,125,948,11,10
+Cuba-Florida (1906),"Grand Isle, LA ",29.26,-89.96,750," Houma, LA ",320,353,120,958,12,9
+Brazoria (1909),"Brazoria, TX ",29.04,-95.57,700," Galveston, TX ",400,26,115,962,10,7
+Florida Keys (1909),"Key West, FL ",24.55,-81.78,850," Marathon, FL ",650,10,105,970,8,6
+Cuba-Florida (1906),"Havana, Cuba ",23.13,-82.38,800," Key West, FL ",100,240,130,947,14,12
+Galveston (1900),"Galveston, TX ",29.3,-94.79,950," Houston, TX ",900,6000,145,936,15,10
+Key West (1899),"Key West, FL ",24.55,-81.78,850," Marathon, FL ",600,334,120,945,12,12
+Georgia (1898),"Savannah, GA ",32.08,-81.1,800," Brunswick, GA ",650,179,115,950,9,9
+Cedar Key (1896),"Cedar Key, FL ",29.14,-83.03,750," Tampa, FL ",900,70,130,942,14,13
+South Carolina (1894),"Charleston, SC ",32.78,-79.93,700," Myrtle Beach, SC ",300,34,110,960,10,8
+Cheniere Caminada (1893),"Cheniere Caminada, LA ",29.45,-90.26,650," Houma, LA ",450,2000,140,934,20,15
+Sea Islands (1893),"Sea Islands, GA ",31.21,-81.39,600," Savannah, GA ",800,2000,130,939,18,14
+Louisiana (1893),"Morgan City, LA ",29.7,-91.21,700," New Orleans, LA ",900,1100,125,941,14,13
+Key West (1888),"Key West, FL ",24.55,-81.78,700," Marathon, FL ",210,130,115,960,10,9
+Indianola (1886),"Indianola, TX ",28.53,-96.52,650," Victoria, TX ",750,150,140,933,20,15
+Sabine Pass (1886),"Sabine Pass, TX ",29.73,-93.87,600," Port Arthur, TX ",900,195,130,940,18,14
+Charleston (1885),"Charleston, SC ",32.78,-79.93,550," Myrtle Beach, SC ",600,35,110,950,12,10
+Mississippi (1882),"Biloxi, MS ",30.39,-88.89,500," Gulfport, MS ",650,50,100,970,8,7
+Southeast Florida (1880),"Miami, FL ",25.76,-80.19,600," West Palm Beach, FL ",650,17,110,955,10,8
+Cape Lookout (1879),"Cape Lookout, NC ",34.62,-76.53,550," Wilmington, NC ",600,46,115,950,9,10
+Louisiana (1879),"New Orleans, LA ",29.95,-90.07,700," Baton Rouge, LA ",700,43,120,945,12,9
+Indianola (1877),"Indianola, TX ",28.53,-96.52,650," Victoria, TX ",650,84,130,940,15,13
+Galveston (1875),"Galveston, TX ",29.3,-94.79,800," Houston, TX ",925,26,125,947,14,12
+Nova Scotia (1873),"Halifax, NS ",44.65,-63.57,500," Yarmouth, NS ",650,223,100,970,8,7
+Tampa Bay (1871),"Tampa, FL ",27.95,-82.46,750," St. Petersburg, FL ",850,35,115,960,11,9
+New England (1869),"Providence, RI ",41.82,-71.41,500," Boston, MA ","1,200",40,110,960,9,8
+Louisiana-Texas (1860),"Lake Charles, LA ",30.22,-93.22,600," Port Arthur, TX ",600,36,125,945,14,12
+Mississippi-Alabama (1860),"Biloxi, MS ",30.39,-88.89,550," Mobile, AL ",800,55,115,950,12,10
+Mobile (1855),"Mobile, AL ",30.69,-88.04,700," Gulf Shores, AL ",700,45,120,947,15,13
+Savannah (1854),"Savannah, GA ",32.08,-81.1,650," Charleston, SC ",600,34,110,960,10,9
+Pensacola (1852),"Pensacola, FL ",30.42,-87.22,500," Destin, FL ",105,19,100,970,8,7
+Tampa Bay (1851),"Tampa, FL ",27.95,-82.46,750," St. Petersburg, FL ",300,30,105,955,9,8
