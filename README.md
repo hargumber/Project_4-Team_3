@@ -5,7 +5,7 @@ Data Sources:
 
 Objectives: 
 
-Libraries used 
+
 
 
 Results achieved: 
@@ -43,6 +43,7 @@ As a member of TEAM 3, my primary objective was to ensure meteorological factors
 3. Seaborn Histplot: https://seaborn.pydata.org/generated/seaborn.histplot.html 
 4. Mean Squared Error (Scikit-Learn): https://scikitlearn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html 
 5. Python Module Reloading: https://stackoverflow.com/questions/76009840/how-toreload-a-module-in-python
-6. CHATGPTSeaborn Heatmaps: https://seaborn.pydata.org/generated/seaborn.heatmap.html 
+6. CHATGPTSeaborn Heatmaps: https://seaborn.pydata.org/generated/seaborn.heatmap.html
+7. TroPYcal library for plotting storm data.
 
 
