@@ -1,23 +1,34 @@
 # Project_4-Team_3
-The goals of the project are to use data from various sources and predict damage caused by hurricanee using hurricane attributes.
 
-Data Sources: 
+- Title: A Multi-faceted Look at Storms: Trends, Impacts, and Public Sentiments
 
-Objectives: 
+- Team members
+Alexandra Kutz, Anvita Iyer, Daniel Allen, Hardeep Gumber and Krishan Pandey
+
+- Objectives
+The major objectives of this project are to analyze the storm events from the Atlantic basin and correlate the hurricane severity with damages and fatality. We analyzed the sentiments of the affected people as represented by their twitter tweets and correlated it with severity, damage and loss of life caused by major hurricanes. We used the data to train machine learning models and determine their accuracy.
+
+- Data sources
+The datasets containing storm events (1851-2024) at Atlantic basin were obtained from National Hurricane Center and Central Pacific Hurricane center, part of National Oceanic and Atmospheric Administration.
+
+The dataset showing weather/climate disaster events (1980-2024) with more than $1 billion damages in the US was obtained from National Centers for Environmental Information, part of National Oceanic and Atmospheric Administration.
+
+- Libraries used
+matplotlib,  mpld3, numpy, pandas, plotly, quilt3, TroPYcal, 
 
 
+- Data Analysis and Conclusions
+1. There is an upward trend in the frequency of hurricanes occurring in the last 50 years.
+2. Our results showed that damages and fatalities caused by hurricanes are dependent on multiple factors (e.g. socio-economic conditions, existing infrastructure and geographical locations), not just the hurricane severity.
+3. Multiple models were developed and tested. 
+4. For predicting Cost of Damage, RandomForestClassifier was used as a base model, and improved it by using XGBClassifier with RandomizedSearchCV. 82% Accuracy was achieved  to predict 1 from 3 classes,  
+5. For predicting Number of Fatalities,  RandomForestClassifier was used as a base model and improved with XGBClassifier. 63% Accuracy was achieved to predict 1 from 4 classes and 96% Accuracy if it's a binary class
+6. Sentiment analysis was also carried out using twitter data. 
 
+Disclosure about AI usage
 
-Results achieved: 
-- Major hurricanes
-- Most costly hurricanes
-- Trends over time
-- Models
-- Sentiment analysis
+CHATGPT was used to make certain codes more succinct and concise.
 
-Conclusions:
-
-Declaration of the use of ChatGPT or other AI tools
 
 **Project Overview 
 (DANIEL ALLEN) 
